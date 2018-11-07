@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My Campus</string>
+    <string name="s1">Undergraduate</string>
+    <string name="s2">Postgraduate</string>
+    <string name="s3">Doctoral</string>
+    <string name="pku">Training For Young Ulama</string>
+
+    <string name="about">About</string>
+    <string name="visi">Visi Mission</string>
+    <string name="character">Characteristics</string>
+    <string name="history">History</string>
+    <string name="recognition">Recognition</string>
+    <string name="video">Video Profile</string>
+
+    <string name="tab_text_1">University</string>
+    <string name="tab_text_2">Program Study</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">About App</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- PRODI -->
+    <string name="saa">Comparative Study of Religion</string>
+    <string name="afi">Aqeedah and Islamic Thought</string>
+    <string name="pai">Islamic Education</string>
+    <string name="pba">Arabic Language Teaching</string>
+    <string name="iqt">al-Quran and Tafsir</string>
+    <string name="hes">The Law of Islamic Economics</string>
+    <string name="pm">Comparative School of Jurisprudence and Law</string>
+    <string name="ti">Information Technology</string>
+    <string name="tip">Agro-industrial Technology</string>
+    <string name="agro">Agro-technology</string>
+    <string name="hi">International Relations</string>
+    <string name="ilkom">Communication Sciences</string>
+    <string name="ei">Islamic Economics</string>
+    <string name="mb">Management</string>
+    <string name="far">Pharmacy</string>
+    <string name="giz">Nutrition</string>
+    <string name="k3">Occupational Safety and Health</string>
+
+    <string name="content_appabout">Salam sukes untuk kita semua, alhamdulillah aplikasi ini akhirnya bisa saya selesaikan.
+        Aplikasi Mobile sederhana ini adalah sebuah aplikasi yang basically WebView yang berisikan
+        Profile Universitas Darussalam Gontor dan Profile Program Studi.
+
+        \n\nAplikasi ini dibuat untuk memenuhi tugas dari mata kuliah Pemrogramman Mobile.
+
+        \n\nUntuk source bisa dilihat di: <b>https://github.com/kangbaim</b>
+
+        \n\nDeveloper by kangbaim
+    </string>
+</resources>

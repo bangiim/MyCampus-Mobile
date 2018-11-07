@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.datalibrary.mycampus">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_foreground"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".about.ActivityAbout"
+            android:label="@string/about" />
+        <activity
+            android:name=".about.ActivityHistory"
+            android:label="@string/history" />
+        <activity
+            android:name=".about.ActivityVisimisi"
+            android:label="@string/visi" />
+        <activity
+            android:name=".about.ActivityCharacter"
+            android:label="@string/character" />
+        <activity
+            android:name=".about.ActivityRecognation"
+            android:label="@string/recognition" />
+        <activity
+            android:name=".about.ActivityVideo"
+            android:label="@string/video" />
+        <activity
+            android:name=".UndergraduateActivity"
+            android:label="@string/s1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".postgraduate.PostgraduateActivity"
+            android:label="@string/s2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ShowunderActivity"
+            android:label="@string/s1" />
+        <activity
+            android:name=".postgraduate.AFIs2Activity"
+            android:label="@string/afi" />
+        <activity
+            android:name=".postgraduate.HESs2Activity"
+            android:label="@string/hes" />
+        <activity
+            android:name=".postgraduate.PBAs2Activity"
+            android:label="@string/pba" />
+        <activity
+            android:name=".AFIs3Activity"
+            android:label="@string/s3" />
+        <activity
+            android:name=".AboutappActivity"
+            android:label="@string/action_settings"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>
