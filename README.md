@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/Wy423JQ/logo-My-Campus.png" alt="logo-My-Campus" border="0">
+</p>
+
 # MyCampus-Mobile
 App ini dibuat sebagai sarana informasi terkait profile Universitas Darussalam Gontor dan Program Studi, basically aplikasi ini adalah WebView. App ini dibuat dalam rangka memenuhi tugas mata kuliah Pemrogramman Mobile, berikut Screen dari aplikasi
 
